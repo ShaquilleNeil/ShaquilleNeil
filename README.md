@@ -30,3 +30,44 @@ Most of my learning happens by building end-to-end products — from database sc
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
+
+
+## 🚀 Featured Projects
+
+### 🐾 Animal Care Veterinary Clinic
+**ASP.NET Core MVC • SQL Server**
+- Database-first migration & scaffolding  
+- Relational data modeling  
+- Authentication & CRUD workflows  
+
+### 🏢 DyadeSpace
+**Supabase • Android**
+- Employee & task management system  
+- Many-to-many relationships  
+- Role-based access control  
+
+### 💇 The Chair
+**Android • Firebase**
+- Service booking platform  
+- Media, profiles, real-time updates  
+
+### 🔁 PlugTrade
+**iOS • SwiftUI**
+- Buy / sell / trade marketplace  
+- Modern SwiftUI architecture  
+
+---
+
+## 📈 GitHub Stats
+
+![Shaquille's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShaquilleNeil&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaquilleNeil&layout=compact)
+
+---
+
+## 📫 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](YOUR_LINK_HERE)
+
+---
+
+_Always building. Always learning._
