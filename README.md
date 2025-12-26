@@ -58,16 +58,3 @@ Most of my learning happens by building end-to-end products — from database sc
 
 ---
 
-## 📈 GitHub Stats
-
-![Shaquille's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShaquilleNeil&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaquilleNeil&layout=compact)
-
----
-
-## 📫 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](YOUR_LINK_HERE)
-
----
-
-_Always building. Always learning._
