@@ -65,3 +65,4 @@ Most of my learning happens by building end-to-end products — from database sc
 
 ---
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true)
