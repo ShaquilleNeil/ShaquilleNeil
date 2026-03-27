@@ -6,7 +6,7 @@ I care about clean architecture, solid data models, and shipping features that a
 Most of my learning happens by building end-to-end products — from database schema to UI.
 
 ## 🧠 Tech Stack
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ShaquilleNeil&layout=compact&theme=tokyonight&hide_border=true)
+
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
