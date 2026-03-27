@@ -65,4 +65,4 @@ Most of my learning happens by building end-to-end products — from database sc
 
 ---
 
-![Shaq's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShaquilleNeil&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)
+![Shaq's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ShaquilleNeil&show_icons=true&theme=tokyonight&hide_border=true)
